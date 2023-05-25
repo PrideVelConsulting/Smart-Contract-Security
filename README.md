@@ -37,6 +37,15 @@ So, in PVL category checklist,we would be keeping all  those common attack vecto
 
 ---
 
+Looking for getting your smart contract audited?Or looking for more information , request you to DM us at :
+
+[Twitter]()
+[Discord]()
+[Telegram]()
+
+
+---
+
 | S.No |            Test Cases                                                                                                                 | Category | Compiler Version | CONTRACT CATEGORY TYPE |   |
 |------|---------------------------------------------------------------------------------------------------------------------------------------|----------|------------------|------------------------|---|
 | 1    | [array[index] += amount is cheaper than array[index] = array[index] + amount](https://github.com/PrideVelConsulting/Smart-Contract-Security/blob/main/Checklist/Reference%20Files/1.md)                                                       | GAS      | ALL              | GENERIC                |   |
@@ -112,3 +121,6 @@ So, in PVL category checklist,we would be keeping all  those common attack vecto
 | 69   | [DAO and Governance Attacks ](https://github.com/PrideVelConsulting/Smart-Contract-Security/blob/main/Checklist/Reference%20Files/69.md)                                                                                                       | MED/HIGH | ALL              | GENERIC                |   |
 | 70   |  [Oracle Manipulation](https://github.com/PrideVelConsulting/Smart-Contract-Security/blob/main/Checklist/Reference%20Files/70.md)                                                                                                              | MED/HIGH | ALL              | GENERIC                |   |
 | 71   | [Call/Delegate Call Attack](https://github.com/PrideVelConsulting/Smart-Contract-Security/blob/main/Checklist/Reference%20Files/71.md)                                                                                                         | MED/HIGH | ALL              | GENERIC                |   |
+
+
+
