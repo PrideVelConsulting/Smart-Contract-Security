@@ -37,7 +37,7 @@ So, in PVL category checklist,we would be keeping all  those common attack vecto
 
 ---
 
-Looking for getting your smart contract audited?Or looking for more information , request you to DM us at :
+Looking for getting your smart contract audited?Or if you are looking for more information , request you to DM us at :
 
 [Twitter]()
 [Discord]()
