@@ -30,7 +30,7 @@ Where assets refer to funds, NFTs, data, authorization, and any information inte
 
 
 
-> NOTE:  For both medium and high risk issues , there are 10 common types of attacks vectors we have to look for. If we find via certain behavior ,or attack vector that it is impacting specific user  at extreme hypothetical random condition,we will keep that in “Medium” Category.
+> NOTE:  For both medium and high risk issues , there are 5-10 common types of attacks vectors we have to look for. If we find via certain behavior ,or attack vector that it is impacting specific user  at extreme hypothetical random condition,we will keep that in “Medium” Category.
 If it affects the main vault,or will impact all the users ,or its access mechanism ,we should put it as high.
 So, in PVL category checklist,we would be keeping all  those common attack vectors in category “Med/HIGH”
 
