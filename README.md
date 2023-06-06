@@ -39,7 +39,7 @@ Where assets refer to funds, NFTs, data, authorization, and any information inte
 
 
 
-> NOTE:   For both medium and high risk issues , there are 5-10 common types of attacks vectors we have to look for. If we find via certain behavior ,or attack vector that it is impacting specific user  at extreme hypothetical random condition,we will keep that in “Medium” Category.Or ,Medium-risk issues are those that have the potential to cause significant damage to the contract, but are not likely to be exploited. For example, an issue that could allow an attacker to steal a small amount of funds from the contract would be considered to be a medium-risk issue.
+> NOTE:   For both medium and high risk issues , there are around 15-20 common types of attacks vectors we have to look for. If we find via certain behavior ,or attack vector that it is impacting specific user  at extreme hypothetical random condition,we will keep that in “Medium” Category.Or ,Medium-risk issues are those that have the potential to cause significant damage to the contract, but are not likely to be exploited. For example, an issue that could allow an attacker to steal a small amount of funds from the contract would be considered to be a medium-risk issue.
 If it affects the main vault,or will impact all the users ,or its access mechanism ,we should put it as high risk category.Or,High-risk issues are those that have the potential to cause catastrophic damage to the contract, and are likely to be exploited. For example, an issue that could allow an attacker to steal all of the funds from the contract would be considered to be a high-risk issue.
 So, in PVL category checklist,we would be keeping all  those common attack vectors in category “Med/HIGH”.
 
