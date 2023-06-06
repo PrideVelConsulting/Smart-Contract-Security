@@ -5,7 +5,7 @@
 
 Initial Tips before you start following this checklist :
 
-* Though you can follow any order ,and their is no strict rule as such .but we recommend you to check for **GAS OPTIMIZATION**
+* Though you can follow any order ,and their is no strict rule as such , but we recommend you to check for **GAS OPTIMIZATION** first
  ,then **LOW RISK/QA** ,and at the end look for **MEDIUM/HIGH** risk issues
 
 
@@ -27,17 +27,31 @@ Where assets refer to funds, NFTs, data, authorization, and any information inte
 
 **3 — High**: Assets can be stolen/lost/compromised directly (or indirectly if there is a valid attack path that does not have hand-wavy hypotheticals).
 
-
-
-
-> NOTE:  For both medium and high risk issues , there are 5-10 common types of attacks vectors we have to look for. If we find via certain behavior ,or attack vector that it is impacting specific user  at extreme hypothetical random condition,we will keep that in “Medium” Category.
-If it affects the main vault,or will impact all the users ,or its access mechanism ,we should put it as high.
-So, in PVL category checklist,we would be keeping all  those common attack vectors in category “Med/HIGH”
-
-
 ---
 
-Looking for getting your smart contract audited?Or if you are looking for more information , request you to DM us at :
+**In other words, medium and high-risk issues in Solidity smart contract auditing can be categorized based on the following factors:**
+
+
+    * Severity: The severity of an issue is determined by the potential impact that it could have on the contract. For example, an issue that could allow an attacker to steal funds from the contract would be considered to be more severe than an issue that could only cause the contract to malfunction.
+  
+    * Likelihood: The likelihood of an issue being exploited is determined by the ease with which it can be exploited. For example, an issue   that can be exploited by anyone who knows about it would be considered to be more likely to be exploited than an issue that requires specialized knowledge to exploit.
+
+
+
+
+> NOTE:   For both medium and high risk issues , there are 5-10 common types of attacks vectors we have to look for. If we find via certain behavior ,or attack vector that it is impacting specific user  at extreme hypothetical random condition,we will keep that in “Medium” Category.Or ,Medium-risk issues are those that have the potential to cause significant damage to the contract, but are not likely to be exploited. For example, an issue that could allow an attacker to steal a small amount of funds from the contract would be considered to be a medium-risk issue.
+If it affects the main vault,or will impact all the users ,or its access mechanism ,we should put it as high risk category.Or,High-risk issues are those that have the potential to cause catastrophic damage to the contract, and are likely to be exploited. For example, an issue that could allow an attacker to steal all of the funds from the contract would be considered to be a high-risk issue.
+So, in PVL category checklist,we would be keeping all  those common attack vectors in category “Med/HIGH”.
+
+>It is important to note that these are just general categories, and the specific classification of an issue may vary depending on the specific circumstances. For example, an issue that is considered to be medium-risk in one context may be considered to be high-risk in another context.
+---
+
+
+
+
+
+
+Looking for getting your smart contract audited?Or if you are looking for more information , request you to DM us at
 
 * [Twitter](https://twitter.com/Web3tech_)
 * [Discord](https://discord.gg/3MRWE5BgQN)
