@@ -32,9 +32,9 @@ Where assets refer to funds, NFTs, data, authorization, and any information inte
 **In other words, medium and high-risk issues in Solidity smart contract auditing can be categorized based on the following factors:**
 
 
-    * Severity: The severity of an issue is determined by the potential impact that it could have on the contract. For example, an issue that could allow an attacker to steal funds from the contract would be considered to be more severe than an issue that could only cause the contract to malfunction.
+  1. **Severity**: The severity of an issue is determined by the potential impact that it could have on the contract. For example, an issue that could allow an attacker to steal funds from the contract would be considered to be more severe than an issue that could only cause the contract to malfunction.
   
-    * Likelihood: The likelihood of an issue being exploited is determined by the ease with which it can be exploited. For example, an issue   that can be exploited by anyone who knows about it would be considered to be more likely to be exploited than an issue that requires specialized knowledge to exploit.
+  2. **Likelihood**: The likelihood of an issue being exploited is determined by the ease with which it can be exploited. For example, an issue   that can be exploited by anyone who knows about it would be considered to be more likely to be exploited than an issue that requires specialized knowledge to exploit.
 
 
 
